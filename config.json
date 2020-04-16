@@ -1,5 +1,5 @@
 {
-  "DB_HOST": "mongodb://localhost:27017/seo",
+  "DB_HOST": "mongodb://44.227.79.89:27017/seo",
   "URL_KEYWORD_LOCAL_FILE_PATH": "./goldenQuery.json",
   "INSTANCE_LOCAL_FILE_PATH": "./instance.json",
   "URL_CAPACITY_PER_IP_LOCAL_FILE_PATH": "./capacity.json",
