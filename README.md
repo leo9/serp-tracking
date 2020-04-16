@@ -10,4 +10,5 @@
 1. Fill in the goldenQuery.json
 1. Make capacity number to be 30
 1. Add instance id in instance.json (except the 1st one) to lambda function (https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/bnb_start_stop?tab=configuration) to make it invoked everyday.
-1. Deploy the seo-tracking's backend and frontend to machine "wp1-db & collector & dashboard & backend"
+1. Launch instance "wp1-db & collector & dashboard & backend" & pm2 start server.js for backend & sudo service mongod start
+
