@@ -1,9 +1,9 @@
 {
-  DB_HOST: "mongodb://52.41.136.125:27017/seo",
-  URL_KEYWORD_LOCAL_FILE_PATH: "/home/ubuntu/goldenQuery.json",
-  INSTANCE_LOCAL_FILE_PATH: "/home/ubuntu/instance.json",
-  URL_CAPACITY_PER_IP_LOCAL_FILE_PATH: "/home/ubuntu/capacity.json",
-  URL_KEYWORD_REMOTE_FILE_PATH: "https://raw.githubusercontent.com/leo9/serp-tracking/master/goldenQuery.json",
-  INSTANCE_REMOTE_FILE_PATH: "https://raw.githubusercontent.com/leo9/serp-tracking/master/instance.json",
-  URL_CAPACITY_PER_IP_REMOTE_FILE_PATH: "https://raw.githubusercontent.com/leo9/serp-tracking/master/capacity.json"
+  "DB_HOST": "mongodb://52.41.136.125:27017/seo",
+  "URL_KEYWORD_LOCAL_FILE_PATH": "/home/ubuntu/goldenQuery.json",
+  "INSTANCE_LOCAL_FILE_PATH": "/home/ubuntu/instance.json",
+  "URL_CAPACITY_PER_IP_LOCAL_FILE_PATH": "/home/ubuntu/capacity.json",
+  "URL_KEYWORD_REMOTE_FILE_PATH": "https://raw.githubusercontent.com/leo9/serp-tracking/master/goldenQuery.json",
+  "INSTANCE_REMOTE_FILE_PATH": "https://raw.githubusercontent.com/leo9/serp-tracking/master/instance.json",
+  "URL_CAPACITY_PER_IP_REMOTE_FILE_PATH": "https://raw.githubusercontent.com/leo9/serp-tracking/master/capacity.json"
 }
